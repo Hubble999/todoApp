@@ -1,0 +1,9 @@
+.delete {
+  color: #dc143c;
+  margin-left: 15px;
+  opacity: 0.7;
+}
+
+.delete:hover {
+  opacity: 2;
+}
